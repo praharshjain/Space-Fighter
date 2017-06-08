@@ -8,6 +8,10 @@ Download apk from [Releases](https://github.com/praharshjain/Space-Fighter/relea
 
 Or open project with Android Studio and build from source
 
+Screenshot
+----------------  
+<img src="https://github.com/praharshjain/Space-Fighter/blob/master/screenshot.jpg" width="1200">
+
 License
 ----------------
 MIT
